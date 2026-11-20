@@ -1,7 +1,9 @@
-# CodeRandomSecrets---Corase
+# Corase - CodeRandomSecrets
+
 Gerador de senhas simples e intuitivo.
 
-## Fase: alpha
+## Fase de desenvolvimento
+- alpha
 
-Créditos:
+# Créditos:
 https://github.com/BrunoZanquetta/gerador-de-senhas-c
