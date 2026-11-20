@@ -6,8 +6,8 @@ Gerador de senhas simples e intuitivo.
 - alpha
 
 ## Contribuidores
-- CarvalhoFnix
 - BrunoZanquetta
+- CarvalhoFnix
 - Claude AI
 
 ## Créditos:
