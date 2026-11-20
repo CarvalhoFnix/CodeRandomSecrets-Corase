@@ -11,4 +11,4 @@ Gerador de senhas simples e intuitivo.
 - Claude AI
 
 ## Créditos:
-https://github.com/BrunoZanquetta/gerador-de-senhas-c
+- https://github.com/BrunoZanquetta/gerador-de-senhas-c
